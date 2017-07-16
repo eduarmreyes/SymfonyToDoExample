@@ -1,6 +1,6 @@
 <?php
 
-namespace RootstackTaskBundle\Tests\Controller;
+namespace Rootstack\TaskBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
